@@ -1,0 +1,2 @@
+- Harus Menginstall Composer
+- Harus Menginstall Image Magick Untuk Generate Barcode Ke PNG
